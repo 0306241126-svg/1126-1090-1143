@@ -1,2 +1,10 @@
 hello world
+<<<<<<< HEAD
 xin chao le minh quan 
+=======
+<<<<<<< HEAD
+xin chao linh sv1
+=======
+xin chao sv2
+>>>>>>> master
+>>>>>>> master
